@@ -3,7 +3,7 @@
 <!--
 **andresTech3/andrestech3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-* [linktree](https://linkin.bio/andres_tech3)
+## [linktree](https://linkin.bio/andres_tech3)
 
 ### Programador web 🖥️
 Puedo ayudarte a automatizar tareas, en crear Landi Pages, Paginas Web, Funcionalidades Adicionales, gestor de proyectos, implementacion de app web, implementando las técnicas como SEO Y CTA alguna de mis habilidades son :
